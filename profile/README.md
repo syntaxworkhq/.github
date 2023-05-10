@@ -6,7 +6,7 @@ We are SyntaxWork Solutions! We help to check viability 🍃/🍂 of design and 
 
 💻 [Our website](https://www.syntaxwork.com/)
 
-📄 [Services we provide](https://www.syntaxwork.com/#services/)
+📄 [Services we provide](https://www.syntaxwork.com/#services)
 
 ## Our stack:
 
@@ -24,7 +24,7 @@ We are SyntaxWork Solutions! We help to check viability 🍃/🍂 of design and 
   <tr>
     <td valign="top">
         <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="14" height="14"/>&nbsp;Swift</a> <br>
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="14" height="14"/>&nbsp;Kotlin</a> <br>
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="14" height="14"/>&nbsp;Flutter</a> <br>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="14" height="14"/>&nbsp;React Native</a> <br>
     </td>
     <td valign="top">
