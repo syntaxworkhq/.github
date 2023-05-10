@@ -1,3 +1,4 @@
+<img src="https://github.com/syntaxworkhq/.github/blob/main/images/banner.jpg" alt="Banner"/>
 
 We are SyntaxWork Solutions! We help to check viability 🍃/🍂 of design and development ideas! And make long live it via maintenance! ❤️‍🩹
 
@@ -5,9 +6,7 @@ We are SyntaxWork Solutions! We help to check viability 🍃/🍂 of design and 
 
 💻 [Our website](https://www.syntaxwork.com/)
 
-📄 [Services we provide](https://www.syntaxwork.com/services/)
-
-🤍 [Our workflow](https://www.syntaxwork.com/how-we-work/)
+📄 [Services we provide](https://www.syntaxwork.com/#services/)
 
 ## Our stack:
 
@@ -59,18 +58,16 @@ We are SyntaxWork Solutions! We help to check viability 🍃/🍂 of design and 
 
 ## 🎠 Follow us!
 
-<a href="https://twitter.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronas_it" height="20" width="30" /></a>
-<a href="https://fb.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronasitui" height="20" width="30" /></a>
-<a href="https://instagram.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronasit_ui" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronasit" height="20" width="30" /></a>
+<a href="https://twitter.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syntaxworkhq" height="20" width="30" /></a>
+<a href="https://fb.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syntaxworkhq" height="20" width="30" /></a>
+<a href="https://instagram.com/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntaxworkhq" height="20" width="30" /></a>
+<a href="https://linkedin.com/company/syntaxworkhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syntaxworkhq" height="20" width="30" /></a>
 
 ## How to reach us
 
 ### 🖋 Write!
 
-[Email](info@syntaxwork.com)
-
-[Telegram](https://t.me/syntaxworkhq)
+[Email](mailto:info@syntaxwork.com)
 
 [WhatsApp](https://wa.me/9909966560?text=Hi%20SyntaxWork%20Solutions,%20I%20want%20you%20to%20help%20me%20with)
 
